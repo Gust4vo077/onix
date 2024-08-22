@@ -10,7 +10,8 @@ aéreo.
 
 ## Principais Recursos:
 
-- **Gestão de Frotas de Aeronaves**: Controle total sobre a alocação, manutenção
-e monitoramento das aeronaves.
-    - Chegada da Aeronave
-    - Partida da Aeronave
+- **Gestão de Frotas de Aeronaves**:
+- **Gestão de Pátio**:
+- **Monitoramento em Tempo Real**:
+- **Relatórios Personalizados**:
+- **Dados em Tempo Real**:
