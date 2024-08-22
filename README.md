@@ -12,6 +12,9 @@ aéreo.
 
 - **Gestão de Frotas de Aeronaves**:
 - **Gestão de Pátio**:
+- **Gestão de Operações**:
+- **Fiscalização de Operações**:
 - **Monitoramento em Tempo Real**:
 - **Relatórios Personalizados**:
 - **Dados em Tempo Real**:
+- **Automações de Processos**:
