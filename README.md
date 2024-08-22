@@ -26,7 +26,20 @@ aéreo.
   - Ordem de Serviços
   - Controle de Operações
 - **Fiscalização de Operações**:
+  - Fiscalizar Ordem de Serviço
+  - Aprovar Ordem de Serviço
+  - Controle sobre Oprações
 - **Monitoramento em Tempo Real**:
+  - Controle em Tempo real de Movimentações de aeronaves
+  - Controle em Tempo real de Prestação de Serviços
+  - Controle em Tempo real de Atividades de Funcionários
 - **Relatórios Personalizados**:
-- **Dados em Tempo Real**:
+  - Relatórios detalhados de Movimentações
+  - Relatórios detalhados de Prestação de Serviços
+  - Relatórios detalhados de Histórico de Dados
+  - Relatórios detalhados Customizados
 - **Automações de Processos**:
+  - Aprovações Automáticas
+  - Regras de Aprovações
+  - Automações de processos
+  - Fluxo com Whatsapp
