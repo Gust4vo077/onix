@@ -9,3 +9,8 @@ complexas, garantindo eficiência e agilidade nas operações essenciais do seto
 aéreo.
 
 ## Principais Recursos:
+
+- **Gestão de Frotas de Aeronaves**: Controle total sobre a alocação, manutenção
+e monitoramento das aeronaves.
+    - Chegada da Aeronave
+    - Partida da Aeronave
