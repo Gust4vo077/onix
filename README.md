@@ -43,3 +43,25 @@ aéreo.
   - Regras de Aprovações
   - Automações de processos
   - Fluxo com Whatsapp
+
+## Benefícios
+
+- Eficiência Operacional: Redução de tempo e recursos na gestão das
+operações aeroportuárias.
+- Tomada de Decisões Informada: Acesso a dados precisos e relatórios que
+auxiliam na tomada de decisões estratégicas.
+- Flexibilidade e Escalabilidade: Adaptação às necessidades específicas de
+cada aeroporto, com capacidade de crescimento conforme o aumento da
+demanda.
+- Suporte Especializado: Equipe de suporte técnico dedicada para auxiliar na
+implementação e uso contínuo do sistema.
+
+O Sistema Onix é a solução completa para transformar a gestão aeroportuária,
+trazendo modernidade e eficiência para o setor.
+O Onix é a principal plataforma web do mercado, projetada para otimizar o
+gerenciamento completo de aeroportos no Brasil. Nosso sistema oferece uma
+ampla gama de recursos especializados, proporcionando controle preciso sobre
+todas as operações aeroportuárias, incluindo a gestão de frotas de aeronaves.
+Com uma interface intuitiva e ferramentas avançadas, o Onix simplifica tarefas
+complexas, garantindo eficiência e agilidade nas operações essenciais do setor
+aéreo.
